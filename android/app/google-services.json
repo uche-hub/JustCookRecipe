@@ -30,11 +30,17 @@
             {
               "client_id": "672202510986-utqo8fsjpjmbs3297pqhf2ucbt9ll4ca.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "672202510986-aj1jjt9vopsomn7flcl4g93hcr79nof8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cook.recipe.justcook"
+              }
             }
           ]
         }
-      },
-      "admob_app_id": "ca-app-pub-8204002520550586~7264667450"
+      }
     }
   ],
   "configuration_version": "1"

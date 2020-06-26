@@ -53,7 +53,7 @@ BannerAd myBanner = BannerAd(
   // Replace the testAdUnitId with an ad unit id from the AdMob dash.
   // https://developers.google.com/admob/android/test-ads
   // https://developers.google.com/admob/ios/test-ads
-  adUnitId: 'ca-app-pub-8204002520550586/1827388385',
+  adUnitId: 'ca-app-pub-8204002520550586/6679387672',
   size: AdSize.smartBanner,
   targetingInfo: targetingInfo,
   listener: (MobileAdEvent event) {
@@ -65,7 +65,7 @@ InterstitialAd myInterstitial = InterstitialAd(
   // Replace the testAdUnitId with an ad unit id from the AdMob dash.
   // https://developers.google.com/admob/android/test-ads
   // https://developers.google.com/admob/ios/test-ads
-  adUnitId: 'ca-app-pub-8204002520550586/6066016296',
+  adUnitId: 'ca-app-pub-8204002520550586/2740142660',
   targetingInfo: targetingInfo,
   listener: (MobileAdEvent event) {
     print("InterstitialAd event is $event");
