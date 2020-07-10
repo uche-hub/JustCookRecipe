@@ -7,12 +7,12 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="justcook"
+        android:label="Just Cook"
         android:icon="@mipmap/ic_launcher">
 
         <!-- TODO: Replace with your real AdMob app ID -->
         <meta-data
-            android:name="com.google.android.gms.ads.ca-app-pub-8204002520550586~7264667450"
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-8204002520550586~7264667450"/>
 
         <activity
