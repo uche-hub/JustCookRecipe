@@ -1,42 +1,35 @@
 {
   "project_info": {
-    "project_number": "672202510986",
-    "firebase_url": "https://justcookrecipe.firebaseio.com",
-    "project_id": "justcookrecipe",
-    "storage_bucket": "justcookrecipe.appspot.com"
+    "project_number": "555975919689",
+    "firebase_url": "https://just-cook-d78e6.firebaseio.com",
+    "project_id": "just-cook-d78e6",
+    "storage_bucket": "just-cook-d78e6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:672202510986:android:bb848d8de3b34e8da81373",
+        "mobilesdk_app_id": "1:555975919689:android:f51bb367f639f6e0b39798",
         "android_client_info": {
           "package_name": "cook.recipe.justcook"
         }
       },
       "oauth_client": [
         {
-          "client_id": "672202510986-utqo8fsjpjmbs3297pqhf2ucbt9ll4ca.apps.googleusercontent.com",
+          "client_id": "555975919689-78mto5tr8auref64jsjkukn7sqkar91i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCF-o_LR8lxLqlaUfk6I1t5AdzMTsKuzD4"
+          "current_key": "AIzaSyDXzT6efuCsAeTZb5ls478Twv39QnK1dNw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "672202510986-utqo8fsjpjmbs3297pqhf2ucbt9ll4ca.apps.googleusercontent.com",
+              "client_id": "555975919689-78mto5tr8auref64jsjkukn7sqkar91i.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "672202510986-aj1jjt9vopsomn7flcl4g93hcr79nof8.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "cook.recipe.justcook"
-              }
             }
           ]
         }

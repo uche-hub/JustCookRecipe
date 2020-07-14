@@ -46,7 +46,7 @@ MobileAdTargetingInfo targetingInfo = MobileAdTargetingInfo(
   keywords: <String>['flutterio', 'beautiful apps'],
   contentUrl: 'https://flutter.io',
   childDirected: false,
-  testDevices: <String>[], // Android emulators are considered test devices
+  testDevices: <String>['DC07F36B83AC4AE5CB59F2C2A3DE08FD'], // Android emulators are considered test devices
 );
 
 BannerAd myBanner = BannerAd(
